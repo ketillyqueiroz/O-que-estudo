@@ -60,6 +60,8 @@ body * {
 main {
   max-width: 580px;
   width: 90%;
+
+  /* utilizei o shorthand pra adicionar o margin tanto no top quanto no bottom e auto nas laterais, por mim ficou melhor visualmente*/
   margin: 32px auto;
 
   display: grid;
