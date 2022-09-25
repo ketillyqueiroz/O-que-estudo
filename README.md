@@ -1,4 +1,4 @@
-# Trilha Explorer - O que estudo 👩‍💻📚
+# Trilha Explorer - O que estudo 👩‍💻
 
 ![preview](./Assets/site.png)
 ![preview](./Assets/site2.png)
