@@ -14,7 +14,7 @@ Mentoria: Mayk Brito.
 ## Tecnologias 🧩
 
 -> HTML5.
--> CSS3.
+-> CSS3
 -> Git e Github
 
 ## Contato 📲
