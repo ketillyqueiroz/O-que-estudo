@@ -1,5 +1,5 @@
-# NLW eSports - Trilha Explorer 👩‍💻
-
+# Trilha Explorer - O que estudo 👩‍💻
+ 
 ![preview](./Assets/site.png)
 ![preview](./Assets/site2.png)
 
@@ -20,4 +20,4 @@ Mentoria: Mayk Brito.
 ## Contato 📲
 
 Instagram: @ketilly.keyce
-Gmail: ketillyunicsul@gmail.com
+Gmail: ketillyunicsul@gmail.com 
